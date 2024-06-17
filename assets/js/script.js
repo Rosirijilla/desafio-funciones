@@ -1,3 +1,5 @@
+/*Requerimiento 3 */
+
 let colorPrimero = "white";
 let colorSegundo = "white";
 

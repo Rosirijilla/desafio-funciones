@@ -1,3 +1,5 @@
+/*Requerimiento 3 */
+
 function pintar_div(elemento, color) {
   elemento.style.backgroundColor = color;
 }

@@ -1,6 +1,8 @@
 /*
 
-Requerimiento: Transformar esta declaración de función a una función de expresión.
+Requerimiento 1
+
+Transformar esta declaración de función a una función de expresión.
 
 function example(a, b, c){
 return a+b+c
