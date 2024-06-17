@@ -10,27 +10,3 @@ box-sizing: border-box;
     height: 100vh;
     gap: 1rem;
 }
-
-#div1{
-    background-color: blue;
-    width: 200px;
-    height: 200px;
-}
-
-#div2{
-    background-color: red;
-    width: 200px;
-    height: 200px;
-}
-
-#div3{
-    background-color: green;
-    width: 200px;
-    height: 200px;
-}
-
-#div4{
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
-}
